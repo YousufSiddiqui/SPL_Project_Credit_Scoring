@@ -6,8 +6,6 @@ Description: Plots the boxplots
 
 Keywords: Boxplot, Numerical, Outlier, Median, Quantile, Percentile, Whiskers, Descriptive
 
-See also: for listing related, similar Quantlets or Github code from your point of view - delete if not used
-
 Author: Orhan Ipek
 
 Submitted:  Tue, June 26 2016 by Orhan Ipek
