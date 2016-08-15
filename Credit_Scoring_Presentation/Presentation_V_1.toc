@@ -1,0 +1,8 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {english}
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\beamer@sectionintoc {2}{Background and Importance}{2}{0}{2}
+\beamer@subsectionintoc {2}{1}{General ideas}{1}{0}{2}
+\beamer@sectionintoc {3}{Descripitive Statistics}{4}{0}{3}
+\beamer@sectionintoc {4}{Data Manipulation}{8}{0}{4}
+\beamer@sectionintoc {5}{Predictive Modelling}{7}{0}{5}

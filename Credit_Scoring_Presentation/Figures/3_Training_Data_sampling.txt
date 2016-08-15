@@ -1,0 +1,15 @@
+Sub-sampling using cross validation methodology
+
+Since we needed more diversity for ensemble modelling, we applied methodology used in cross validation method, except the validation part.
+We created 5 folds out of Training dataset with control over target variable.
+
+pic: 3_K-fold.jpg
+
+Bootstrap Aggregation (Bagging)
+
+Bagging is random selection of size of original dataset with replacement.
+
+We controlled the random selection to 67-70% being the original data. (industry-standard)
+
+
+pic: 4_bagging.jpg
