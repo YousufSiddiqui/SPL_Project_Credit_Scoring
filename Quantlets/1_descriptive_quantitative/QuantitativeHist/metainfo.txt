@@ -1,0 +1,18 @@
+Name of Quantlet: QuantitativeHist
+
+Published in: Statistical Programming Langugae Course (SS16)
+
+Description: 'Plots Histograms superimposed on normal distribution
+of Quantitative Variables in the German Credit Score Data set. Breaks 
+used vary from variable to variable according to scale of the observation. 
+Histograms are depicted in gray while the normal distribution line is in red.' 
+
+Keywords: plot, histogram, quantitave, descriptive statistics, normal distribution
+
+Author: Yousuf Hasan Siddiqui
+
+Submitted:  Tue, June 28 2016 by Yousuf Hasan Siddiqui
+
+Datafile: german.data
+
+Example: Plot of the PDF of Histograms

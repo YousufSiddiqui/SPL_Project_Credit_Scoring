@@ -1,0 +1,21 @@
+Name of Quantlet: Libraries installation
+
+Published in: Paper
+
+Description: For running all the code successfully of this project these libraries must be installed beforehand
+
+Keywords: R Libraries
+
+See also: for listing related, similar Quantlets or Github code from your point of view - delete if not used
+
+Author: Shikhar Srivastava
+
+Submitted:  SHOULD NOT BE EMPTY
+
+Datafile: german.data
+
+Input: (optional - delete if not used)
+
+Output:  (optional - delete if not used)
+
+Example: (optional - delete if not used)

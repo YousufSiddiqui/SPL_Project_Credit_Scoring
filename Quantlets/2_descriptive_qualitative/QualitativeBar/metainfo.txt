@@ -1,0 +1,18 @@
+Name of Quantlet: QuanlitativeBar
+
+Published in: Statistical Programming Langugae Course (SS16)
+
+Description: 'Plots Bar Plots of qualitative variables in the 
+german credit score data set. Limits on the y-axis are set between 
+0 and 1000 for all variables to give a comparative visualization among
+different attirbutes.'
+
+Keywords: plots, bar, qualitative, descriptive statistics, frequency 
+
+Author: Yousuf Hasan Siddiqui
+
+Submitted:  Tue, June 28 2016 by Yousuf Hasan Siddiqui
+
+Datafile: german.data
+
+Example: Two pots of PDF of bar plots
